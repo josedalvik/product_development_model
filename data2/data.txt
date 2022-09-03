@@ -1,0 +1,2 @@
+Descargar todas las imagenes de aca: 
+https://www.kaggle.com/datasets/sshikamaru/car-object-detection
