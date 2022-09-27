@@ -6,3 +6,7 @@
 <b>3 de septiembre 2022</b><br/>
 <br/>
 <b>Proyecto final - redes neuronales</b><br/>
+<br/>
+<br/>
+Enlace de youtube:<br/>
+<a href="https://youtu.be/0K9136Jr9bc">https://youtu.be/0K9136Jr9bc</a>
